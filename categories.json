@@ -1,0 +1,150 @@
+{
+  "groups": [
+    {
+      "id": "rostos",
+      "name": "Rostos & Expressões",
+      "icon": "👤",
+      "description": "Foco no indivíduo, nas suas emoções e na perspetiva humana."
+    },
+    {
+      "id": "acao",
+      "name": "Ação & Sociedade",
+      "icon": "✊",
+      "description": "Foco em manifestações, eventos coletivos e dinâmica de grupos."
+    },
+    {
+      "id": "vida",
+      "name": "Vida & Rotina",
+      "icon": "🌍",
+      "description": "Foco no dia a dia, trabalho, deslocação e tradições."
+    },
+    {
+      "id": "ambiente",
+      "name": "Ambiente & Detalhes",
+      "icon": "🏙️",
+      "description": "Foco no cenário, na natureza e nos elementos que contextualizam a cena."
+    }
+  ],
+  "categories": [
+    {
+      "name": "Retrato",
+      "description": "Foco no rosto, identidade e carácter.",
+      "groupId": "rostos"
+    },
+    {
+      "name": "Emoção",
+      "description": "Expressões intensas (gritos, choro, euforia, paixão).",
+      "groupId": "rostos"
+    },
+    {
+      "name": "Infância",
+      "description": "Brincadeiras, descoberta e a energia das crianças.",
+      "groupId": "rostos"
+    },
+    {
+      "name": "Contemplação",
+      "description": "Pausa, introspeção, solidão ou olhar perdido.",
+      "groupId": "rostos"
+    },
+    {
+      "name": "Reivindicação",
+      "description": "Cartazes, palavras de ordem e mensagens escritas.",
+      "groupId": "acao"
+    },
+    {
+      "name": "Marcha",
+      "description": "Pessoas a desfilar organizadamente com faixas/tarjas.",
+      "groupId": "acao"
+    },
+    {
+      "name": "Multidão",
+      "description": "Grandes agregados, visão de conjunto e bandeiras.",
+      "groupId": "acao"
+    },
+    {
+      "name": "Discurso",
+      "description": "Oradores, palcos, megafones e quem fala à multidão.",
+      "groupId": "acao"
+    },
+    {
+      "name": "Confronto",
+      "description": "Tensão, presença policial ou momentos de choque.",
+      "groupId": "acao"
+    },
+    {
+      "name": "Performance",
+      "description": "Intervenções artísticas, máscaras ou teatro de rua.",
+      "groupId": "acao"
+    },
+    {
+      "name": "Ritmo",
+      "description": "Músicos, instrumentos e batucada na manifestação.",
+      "groupId": "acao"
+    },
+    {
+      "name": "Movimento",
+      "description": "Ação física, desporto, dança ou energia corporal.",
+      "groupId": "acao"
+    },
+    {
+      "name": "Repouso",
+      "description": "Pausas, pessoas sentadas ou o descanso após a ação.",
+      "groupId": "acao"
+    },
+    {
+      "name": "Quotidiano",
+      "description": "Rotina, momentos espontâneos, esperas e vida comum.",
+      "groupId": "vida"
+    },
+    {
+      "name": "Ofício",
+      "description": "Trabalho manual, artesãos, profissões e foco nas mãos.",
+      "groupId": "vida"
+    },
+    {
+      "name": "Convívio",
+      "description": "Refeições partilhadas, conversas de café e abraços.",
+      "groupId": "vida"
+    },
+    {
+      "name": "Viagem",
+      "description": "Deslocamento, estradas, aeroportos e exploração.",
+      "groupId": "vida"
+    },
+    {
+      "name": "Celebração",
+      "description": "Festas, casamentos, festivais e alegria coletiva.",
+      "groupId": "vida"
+    },
+    {
+      "name": "Ritual",
+      "description": "Cerimónias religiosas, tradições e práticas simbólicas.",
+      "groupId": "vida"
+    },
+    {
+      "name": "Cultura",
+      "description": "Arte de rua, trajes típicos e expressões locais.",
+      "groupId": "vida"
+    },
+    {
+      "name": "Urbano",
+      "description": "Cenários da cidade, arquitetura e luzes da rua.",
+      "groupId": "ambiente"
+    },
+    {
+      "name": "Natureza",
+      "description": "Paisagens, elementos naturais e ambientes selvagens.",
+      "groupId": "ambiente"
+    },
+    {
+      "name": "Observador",
+      "description": "Transeuntes ou pessoas a assistir das janelas/varandas.",
+      "groupId": "ambiente"
+    },
+    {
+      "name": "Símbolo",
+      "description": "Detalhes simbólicos, texturas, punhos cerrados ou objetos.",
+      "groupId": "ambiente"
+    }
+  ]
+}

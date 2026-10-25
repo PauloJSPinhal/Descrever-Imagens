@@ -1,0 +1,5 @@
+.env
+GITHUB_TOKEN.txt
+.venv/
+__pycache__/
+minhas-fotos/
