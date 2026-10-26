@@ -1,0 +1,12 @@
+{
+  "ia_ativa": "copilot",
+  "ias": {
+    "copilot": {
+      "tipo": "copilot",
+      "nome": "GitHub Copilot",
+      "config": {}
+    }
+  },
+  "ficheiro_categorias": "/home/paulo/Transferências/Temporário/categories.json",
+  "formato_exportacao": "csv"
+}
